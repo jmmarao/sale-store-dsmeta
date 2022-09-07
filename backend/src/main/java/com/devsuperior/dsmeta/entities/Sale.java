@@ -22,12 +22,51 @@ public class Sale {
     public Sale() {
     }
 
-    public Sale(Long id, String sellerName, Integer visitedNumber, Integer deals, Double amount, LocalDateTime date) {
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
         this.id = id;
+    }
+
+    public String getSellerName() {
+        return sellerName;
+    }
+
+    public void setSellerName(String sellerName) {
         this.sellerName = sellerName;
+    }
+
+    public Integer getVisitedNumber() {
+        return visitedNumber;
+    }
+
+    public void setVisitedNumber(Integer visitedNumber) {
         this.visitedNumber = visitedNumber;
+    }
+
+    public Integer getDeals() {
+        return deals;
+    }
+
+    public void setDeals(Integer deals) {
         this.deals = deals;
+    }
+
+    public Double getAmount() {
+        return amount;
+    }
+
+    public void setAmount(Double amount) {
         this.amount = amount;
+    }
+
+    public LocalDateTime getDate() {
+        return date;
+    }
+
+    public void setDate(LocalDateTime date) {
         this.date = date;
     }
 }
