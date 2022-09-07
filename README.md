@@ -20,7 +20,15 @@
 - Episode 01: Git introduction
 - Episode 02: HTML and CSS - part 1
 - Episode 03: HTML and CSS - part 2
-- Episode 04: Episode 1
+- Episode 04: ReactJS
+    - Component
+    - Datepicker
+    - React Hook useState
 - Episode 05: Object Relational Mapping
+- Episode 06: SpringBoot
+    - Security
+    - Database access
+    - Endpoint API REST
+    - Deployment on Heroku
 
 ### :link: [DevSuperior Course Information Access](https://devsuperior.com.br/)
