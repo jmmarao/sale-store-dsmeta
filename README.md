@@ -21,6 +21,6 @@
 - Episode 02: HTML and CSS - part 1
 - Episode 03: HTML and CSS - part 2
 - Episode 04: Episode 1
-- Episode 05: Object Relational Mapper
+- Episode 05: Object Relational Mapping
 
 ### :link: [DevSuperior Course Information Access](https://devsuperior.com.br/)
