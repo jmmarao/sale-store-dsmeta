@@ -1,9 +1,9 @@
-![GitHub language count](https://img.shields.io/github/languages/count/jmmarao/ws-java-course)
-![GitHub top language](https://img.shields.io/github/languages/top/jmmarao/ws-java-course)
-![GitHub](https://img.shields.io/github/license/jmmarao/ws-java-course)
-![GitHub last commit](https://img.shields.io/github/last-commit/jmmarao/ws-java-course)
+![GitHub language count](https://img.shields.io/github/languages/count/jmmarao/sale-store-dsmeta)
+![GitHub top language](https://img.shields.io/github/languages/top/jmmarao/sale-store-dsmeta)
+![GitHub](https://img.shields.io/github/license/jmmarao/sale-store-dsmeta)
+![GitHub last commit](https://img.shields.io/github/last-commit/jmmarao/sale-store-dsmeta)
 
-# :mortar_board: Java and Object-Oriented Programming Course
+# :mortar_board: Spring React Week Course
 
 :triangular_flag_on_post: Lecturer: Prof. Dr. Nélio Alves
 
