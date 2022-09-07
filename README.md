@@ -9,16 +9,18 @@
 
 :computer: Online Spring React course in [DevSuperior](https://devsuperior.com.br/evento-sds)
 
-:ticket: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/), Java Development Kit used: [18](https://www.oracle.com/java/technologies/downloads/)
+:ticket: IDE used:
+- Backend: [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/), Java Development Kit used: [18](https://www.oracle.com/java/technologies/downloads/)
+- Frontend: [Visual Studio Code](https://code.visualstudio.com/)
 
 :calendar: 2nd semester 2022
 
-## Videos Summary
+## Subjects Summary
 
-- Video 01: [Git introduction](https://www.youtube.com/watch?v=_hZf1teRFNg&feature=youtu.be&ab_channel=DevSuperior)
-- Video 02: [HTML and CSS - part 1](https://www.youtube.com/watch?v=FYgIpVf9TBI&feature=youtu.be&ab_channel=DevSuperior)
-- Video 03: [HTML and CSS - part 2](https://www.youtube.com/watch?v=EsQ07Og1yFM&ab_channel=DevSuperior)
-- Video 04: [Episode 1](https://www.youtube.com/watch?v=t8CQ6ILCGaM&ab_channel=DevSuperior)
-- Video 05: [Object Relational Mapper](https://www.youtube.com/watch?v=nW0k-BSrbbk&ab_channel=DevSuperior)
+- Episode 01: Git introduction
+- Episode 02: HTML and CSS - part 1
+- Episode 03: HTML and CSS - part 2
+- Episode 04: Episode 1
+- Episode 05: Object Relational Mapper
 
 ### :link: [DevSuperior Course Information Access](https://devsuperior.com.br/)
