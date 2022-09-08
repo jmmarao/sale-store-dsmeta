@@ -9,6 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
+import java.util.Locale;
+
 @Service
 public class SmsService {
     @Autowired
@@ -27,14 +29,13 @@ public class SmsService {
     private String twilioPhoneTo;
 
     public void sendSms(Long saleId) {
+        Locale.setDefault(new Locale("pt", "BR"));
         Sale sale = saleRepository.findById(saleId).get();
 
         String date = sale.getDate().getMonthValue() + "/" + sale.getDate().getYear();
 
-        String msg = String.format("O vendedor %s foi destaque em %s com um total de R$ %.2f", sale.getSellerName(), date, sale.getAmount());
-
-//        String msg = "Merit Hugs to seller " + sale.getSellerName() + " in " + date +
-//                " with a total of R$" + String.format("%.0f", sale.getAmount());
+        String msg = "Merit Hugs to seller " + sale.getSellerName() + " in " + date +
+                " with a total of R$" + String.format("%.2f", sale.getAmount());
 
         Twilio.init(twilioSid, twilioKey);
 
