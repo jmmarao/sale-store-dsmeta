@@ -29,7 +29,6 @@ public class SmsService {
     private String twilioPhoneTo;
 
     public void sendSms(Long saleId) {
-        Locale.setDefault(new Locale("pt", "BR"));
         Sale sale = saleRepository.findById(saleId).get();
 
         String date = sale.getDate().getMonthValue() + "/" + sale.getDate().getYear();

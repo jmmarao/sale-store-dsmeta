@@ -8,9 +8,7 @@ import java.util.Locale;
 @SpringBootApplication
 public class DsmetaApplication {
 
-	public static void main(String[] args) {
-		Locale.setDefault(new Locale("pt", "BR"));
-		SpringApplication.run(DsmetaApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(DsmetaApplication.class, args);
+    }
 }
