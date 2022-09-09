@@ -33,6 +33,6 @@
 - Episode 07: SpringBoot and ReactJS
     - Backend and frontend integration
     - Frontend deployment on Heroku
-- Final website: https://stellular-axolotl-462798.netlify.app/
+- Final website: https://sale-store-dsmeta-jmmarao.netlify.app/
 
 ### :link: [DevSuperior Course Information Access](https://devsuperior.com.br/)
