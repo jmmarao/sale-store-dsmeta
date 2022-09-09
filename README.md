@@ -29,6 +29,9 @@
     - Security
     - Database access
     - Endpoint API REST
-    - Deployment on Heroku
+    - Backend deployment on Heroku
+- Episode 07: SpringBoot and ReactJS
+    - Backend and frontend integration
+    - Frontend deployment on Heroku
 
 ### :link: [DevSuperior Course Information Access](https://devsuperior.com.br/)
